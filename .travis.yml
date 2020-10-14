@@ -9,4 +9,3 @@ script:
 - npm install
 - echo 'Testing'
 - npm test
-os: osx
