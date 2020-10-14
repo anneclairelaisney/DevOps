@@ -1,7 +1,3 @@
-# ECE DevOps course
-
-Materials for the DevOps course for ECE students.
-
 ## Modules
 
 1. [Introduction to DevOps](modules/1-devops-introduction/index.md)
@@ -9,11 +5,6 @@ Materials for the DevOps course for ECE students.
 3. [Infrastructure as Code (IaC)](modules/3-infrustructure-as-code/index.md)
 4. [Continuous testing](modules/4-continuous-testing/index.md)
 5. [Continuous integration and delivery (CI/CD)](modules/5-ci-cd/index.md)
-6. Containers with Docker
-7. Container orchestration with Kubernetes
-8. Advanced Kubernetes
-9. Cloud native architecture
-10. DevOps in practice
 
 ## Structure
 
@@ -30,6 +21,5 @@ Each module folder can contain following:
 
 ## Author
 
-Sergei Kudinov   
-sergei@adaltas.com   
-Developer and Big Data Engineer at [Adaltas](https://www.adaltas.com/)
+Anne-Claire Laisney
+Elia Levy
